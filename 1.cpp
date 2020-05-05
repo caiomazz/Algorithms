@@ -7,10 +7,10 @@ int main()
    float valorProduto, valorPago, troco;
 
    cout<<"Informe o valor do Produto: ";
-   cin>> valorProduto;
+   cin >> valorProduto;
 
    cout<<"Valor recebido pelo cliente: ";
-   cin>> valorPago;
+   cin >> valorPago;
 
    troco = valorPago - valorProduto;
 
